@@ -1,1 +1,1 @@
-# EventHubsExample
+# eventhubs-examples
